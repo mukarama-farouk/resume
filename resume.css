@@ -1,0 +1,35 @@
+*{
+    max-width: 700px;
+    margin: auto;
+}
+
+div{
+    border-radius: 10px;
+}
+
+header{
+    height: 40px;
+    width: 100px;
+    background-color: darkcyan;
+    position: fixed;
+    z-index: 1;
+
+
+.muka{
+    padding:  50 50;
+    align-items: center;
+
+}
+
+title{
+    margin: 3%;
+}
+
+.muba{
+    height: 50px;
+    width: 100%;
+    background-color: cadetblue;
+    clear: both;
+    position: relative;
+}
+
